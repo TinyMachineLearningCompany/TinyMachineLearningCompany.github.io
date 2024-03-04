@@ -2,6 +2,8 @@
 
 嘿，这是TMLC，以下是我们正在研发的产品 🇵🇱🤝🇭🇰
 
+Our English website is [tmlc.pl](https://tmlc.pl)
+
 ## TMLC AutoML
 
 您不再需要学习如何构建人工智能模型
