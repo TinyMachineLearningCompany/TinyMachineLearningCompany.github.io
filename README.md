@@ -1,4 +1,4 @@
-<p align="center"><img width="200" src="logo.jpg" alt="Tiny Machine Learning Company"></p>
+<p align="center"><img width="200" src="tmlc.jpg" alt="Tiny Machine Learning Company"></p>
 
 嘿，这是TMLC，以下是我们正在研发的产品 🇵🇱🤝🇭🇰
 
